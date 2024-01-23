@@ -1,0 +1,15 @@
+add news stories to comapany page;
+
+figure out what to do about balance history and performance;
+
+add spy dow and qqq charts to homepage as well as some kind of lists for diffrent hightlighted stocks;
+
+add watchlist page;
+
+add dcf model as well;
+
+add ratios to company page (shpuld they go next to the chart or under the description?);
+
+
+
+add your portfolio and use the app to find bugs and generate new idead for add_ons;
