@@ -1,19 +1,19 @@
-
 # Portfolio
 
-A frontend project I created to save time copying company info to google sheets for valuation purposes. 
-
+A frontend project I created to save time copying company info to google sheets for valuation purposes.
 
 ## Authors
 
 - [@Brendan](https://github.com/271mozart125)
 
-
 ## Features
 
 - View company financials and data
 - Add, modify, remove positions from portfolio
-  
+
+## Tech Stack
+
+**Client:** React, redux,
 
 ## Screenshots
 
@@ -23,4 +23,3 @@ A frontend project I created to save time copying company info to google sheets 
 ![Screenshot (67)](https://github.com/271mozart125/stock-portfolio-tracker/assets/150560036/6ff2c6fa-48e5-41f7-886e-cc62479ecadc)
 ![Screenshot (63)](https://github.com/271mozart125/stock-portfolio-tracker/assets/150560036/40496a9a-b9eb-4a1b-b774-bcf3bcd79416)
 ![Screenshot (65)](https://github.com/271mozart125/stock-portfolio-tracker/assets/150560036/899ba36d-4fd9-4e49-878f-62fe7cf7ae83)
-
